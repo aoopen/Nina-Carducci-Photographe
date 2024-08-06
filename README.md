@@ -16,7 +16,6 @@ Mon objectif principal dans ce projet est d'améliorer la visibilité du site de
 Proposition initiale
 
 
-Dans l'e-mail que j'ai envoyé à Nina, j'ai proposé les services suivants :
 
 Optimisation des images du site pour améliorer les performances.
 
@@ -43,7 +42,7 @@ Ajout des métadonnées pour les réseaux sociaux.
 Correction des bugs dans le code, y compris la navigation dans la galerie et l'affichage des filtres.
 
 
-> Objectifs pédagogiques
+ Objectifs pédagogiques
 
 
 Optimiser la performance d'un site web

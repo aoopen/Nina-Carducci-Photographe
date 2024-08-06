@@ -8,7 +8,7 @@ Objectifs de la mission:
 
 
 
-Optimiser la performance d'un site web
+Optimiser la performance du site web
 
 Optimiser les images du site ainsi que le code,
 

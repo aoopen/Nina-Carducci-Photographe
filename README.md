@@ -8,9 +8,7 @@ Objectifs de la mission:
 
 
 
-
-
-Optimiser la performance d'un site web
+Optimiser la performance d'un site webmmmm
 
 d'optimiser les images du site ainsi que le code,
 
@@ -33,9 +31,7 @@ Débugger un site web grâce aux Chrome DevTools
 
 
 
-
 Technologies utilisées:
-
 
 
 

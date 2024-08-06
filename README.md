@@ -1,48 +1,41 @@
-📸 Nina Carducci - Photographe Professionnelle
-
- 
- Introduction
+Nina Carducci - Photographe 
 
 
-Bienvenue sur le projet d'optimisation SEO pour le site de Nina Carducci, une photographe dont l’un de mes amis m'a parlé. Ce document présente les détails de ma proposition d'optimisation SEO envoyée à Nina et les éléments à prendre en compte pour réaliser ce projet.
- 
- 
- Objectif
-
-
-Mon objectif principal dans ce projet est d'améliorer la visibilité du site de Nina Carducci dans les résultats de recherche en optimisant les performances du site et en mettant en place des techniques de référencement local.
-
-
-Proposition initiale
-
-
-
-Optimisation des images du site pour améliorer les performances.
-
-Optimisation du code et de sa structure pour un chargement plus rapide et une meilleure accessibilité.
-
-Mise en place du référencement local en utilisant Schema.org.
-
-Ajout des métadonnées pour les réseaux sociaux.
-
-Correction des problèmes de navigation dans la galerie et d'affichage des filtres sur le site.
-
-
- Tâches à réaliser
-
-
-Sur la base des échanges avec Nina, voici les principales tâches que je vais réaliser :
-
-Optimisation globale du site pour améliorer les performances et le référencement.
-
-Mise en place du référencement local en utilisant Schema.org.
-
-Ajout des métadonnées pour les réseaux sociaux.
-
-Correction des bugs dans le code, y compris la navigation dans la galerie et l'affichage des filtres.
-
-
- Objectifs pédagogiques
+Objectifs de la mission:
 
 
 Optimiser la performance d'un site web
+
+d'optimiser les images du site ainsi que le code,
+
+Mise en place du référencement local en utilisant Schema.org.
+
+mettre en place le référencement local,
+
+ajouter les metas données des réseaux sociaux,
+
+optimiser le SEO,
+
+ameliorer l'accessibilité,
+
+produire un rapport d'optimisation présentant nos actions.
+
+Correction des bugs dans le code, y compris la navigation dans la galerie et l'affichage des filtres.
+
+Débugger un site web grâce aux Chrome DevTools
+
+
+
+Technologies utilisées:
+
+Google Lighthouse
+
+Google Rich Snippet
+
+Schema.org
+
+Wave
+
+HTML5
+
+CSS3

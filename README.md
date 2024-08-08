@@ -1,4 +1,4 @@
-# Nina Carducci - Photographe `#RRGGBB`
+# Nina Carducci - Photographe
 
 
 

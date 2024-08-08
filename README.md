@@ -1,9 +1,9 @@
-Nina Carducci - Photographe
+# Nina Carducci - Photographe `#RRGGBB`
 
 
 
 
-Objectifs de la mission:
+## Objectifs de la mission:
 
 
 
@@ -33,7 +33,7 @@ Débugger un site web grâce aux Chrome DevTools
 
 
 
-Technologies utilisées:
+## Outiles utilisés:
 
 
 
@@ -43,8 +43,11 @@ Google Rich Snippet
 
 Schema.org
 
+Opengraph.xyz
+
 Wave
 
 HTML5
 
 CSS3
+
